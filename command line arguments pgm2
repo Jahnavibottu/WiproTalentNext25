@@ -1,6 +1,0 @@
-class Sum{
-	public static void main(String[] args)
-	{
-		System.out.print("The sum of "+args[0]+" and "+args[1]+" is "+(args[0]+args[1]));
-	}
-}
